@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.0/OortCodex-Desktop.exe",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "1c27c22d0df39732c623a10fdfe56736fa276682",
-  "timestamp": 1792658210588,
-  "sha256hash": "de61862bc1a84d38679f58337d5385761bcc94757338342a26f7eee8febdc6c8",
-  "logs": "## 1.1.0 \n\n -优化企业技能列表预览和Tab样式  \n\n -修复一些bug "
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.1/OortCodex-Desktop.exe",
+  "name": "1.1.1",
+  "version": "1.1.1",
+  "productVersion": "1.1.1.0",
+  "hash": "2c9f46e5cbfc36b12c65fc45f1bcc5deebe3c1ac",
+  "timestamp": 1793324260027,
+  "sha256hash": "6ef70e0ca7608ee5026035ece92dcb6631f5a3fefe8308e29dd22da7d992bd0b",
+  "logs": "## 1.1.1 \n\n -添加自定义环境功能  \n\n -修复一些bug "
 }
