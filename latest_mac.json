@@ -1,0 +1,10 @@
+{
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.0/OortCodex-Desktop.dmg",
+  "name": "1.1.0",
+  "version": "1.1.0",
+  "productVersion": "1.1.0.0",
+  "hash": "dba173f72af881ff21f596a9627d04a1a4ba55cf",
+  "timestamp": 1793343836218,
+  "sha256hash": "bd8a2d36cce55ce7b5550c7362f3f1f44ea67d030daf1f40a9446abf56f55930",
+  "logs": "## 1.1.0 \n\n -添加自定义环境功能  \n\n -修复一些bug "
+}
