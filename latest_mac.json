@@ -1,11 +1,11 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.0/OortCodex-Desktop.dmg",
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.2/OortCodex-Desktop.dmg",
   "url-x64": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.0/OortCodex-Desktop-x64.dmg",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "dba173f72af881ff21f596a9627d04a1a4ba55cf",
-  "timestamp": 1793343836218,
-  "sha256hash": "bd8a2d36cce55ce7b5550c7362f3f1f44ea67d030daf1f40a9446abf56f55930",
-  "logs": "## 1.1.0 \n\n -添加自定义环境功能  \n\n -修复一些bug "
+  "name": "1.1.2",
+  "version": "1.1.2",
+  "productVersion": "1.1.2.0",
+  "hash": "d0571441282b8068c771d6d9499b4caba7b8894f",
+  "timestamp": 1793624815724,
+  "sha256hash": "12d2518b310c3eee3a408aeb53ac6ee370eb2689fd9b765245ff2453120fc699",
+  "logs": "## 1.1.1 \n\n -桌面端 OortCloud 登录新增浏览器授权页,不再停留在门户登录页 \n\n -订阅模块：完善资源包与会员卡功能  \n\n -修复一些bug "
 }
