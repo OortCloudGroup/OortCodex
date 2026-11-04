@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.2/OortCodex-Desktop.exe",
-  "name": "1.1.2",
-  "version": "1.1.2",
-  "productVersion": "1.1.2.0",
-  "hash": "7c838d0201e9a94ae98acfaa80da7c132a752efa",
-  "timestamp": 1793624546731,
-  "sha256hash": "5e30cbc3fb73a9f3630440b213cd63156d69f67e68e185e169cb877424916d9c",
-  "logs": "## 1.1.1 \n\n -桌面端 OortCloud 登录新增浏览器授权页,不再停留在门户登录页 \n\n -订阅模块：完善资源包与会员卡功能  \n\n -修复一些bug "
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.3/OortCodex-Desktop.exe",
+  "name": "1.1.3",
+  "version": "1.1.3",
+  "productVersion": "1.1.3.0",
+  "hash": "dc27dc6472ee9ac7a9c148ac736234a302bcc4bb",
+  "timestamp": 1793774874325,
+  "sha256hash": "c58890a163e7fdfad7aed2d6c200794216e7a0aa96db58046460a42d599b2c96",
+  "logs": "## 1.1.3 \n\n -接入插件中心的专家、规则和技能市场，完善专家召唤、会话隔离交互 \n\n -设置页新增知识库列表与详情查看，并优化插件页面布局  \n\n -修复一些bug "
 }
