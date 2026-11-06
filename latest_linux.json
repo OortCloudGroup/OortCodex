@@ -1,0 +1,10 @@
+{
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.5/OortCodex-Desktop-linux-amd64.deb",
+  "name": "1.1.5",
+  "version": "1.1.5",
+  "productVersion": "1.1.5.0",
+  "hash": "07146a5a4b9899bc02b325877f1e5769eeb90b51",
+  "timestamp": 1793973417756,
+  "sha256hash": "3296f1ab5b2a4a3948ae52cf145d70b3bf77cfbb0f58e9a8c4ad2a431980abf2",
+  "logs": "## 1.1.5 \n\n -修复一些bug"
+}
