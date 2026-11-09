@@ -6,5 +6,5 @@
   "hash": "07146a5a4b9899bc02b325877f1e5769eeb90b51",
   "timestamp": 1793973417756,
   "sha256hash": "3296f1ab5b2a4a3948ae52cf145d70b3bf77cfbb0f58e9a8c4ad2a431980abf2",
-  "logs": "## 1.1.5 \n\n -修复一些bug"
+  "logs": "## 1.1.6 \n\n -添加多租户环境切换租户功能\n\n -添加模型悬浮tooltip\n\n -修复一些bug"
 }

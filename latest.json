@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.5/OortCodex-Desktop.exe",
-  "name": "1.1.5",
-  "version": "1.1.5",
-  "productVersion": "1.1.5.0",
-  "hash": "edc347562489d71074ad64ba955bfb5583758496",
-  "timestamp": 1793945196719,
-  "sha256hash": "7dfd9cf0bcb46e9062d6670d537830bc43839e2b052107a0a6b6faabdf3d86fd",
-  "logs": "## 1.1.5 \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.6/OortCodex-Desktop.exe",
+  "name": "1.1.6",
+  "version": "1.1.6",
+  "productVersion": "1.1.6.0",
+  "hash": "2a6f9893c064d55d45143b57dcd2f57c65c9c9d0",
+  "timestamp": 1794221196757,
+  "sha256hash": "6c4c411572e8af792c16fe4a4669c3753a6146432fefd3333cb8b7fa85cb0a4e",
+  "logs": "## 1.1.6 \n\n -添加多租户环境切换租户功能\n\n -添加模型悬浮tooltip\n\n -修复一些bug"
 }
