@@ -1,11 +1,11 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.6/OortCodex-Desktop.dmg",
-  "url-x64": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.6/OortCodex-Desktop-x86.dmg",
-  "name": "1.1.6",
-  "version": "1.1.6",
-  "productVersion": "1.1.6.0",
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.7/OortCodex-Desktop.dmg",
+  "url-x64": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.7/OortCodex-Desktop-x86.dmg",
+  "name": "1.1.7",
+  "version": "1.1.7",
+  "productVersion": "1.1.7.0",
   "hash": "6df9b329ef144bcbc3bdab4013dfa6ae4be8a818",
-  "timestamp": 1794221217699,
+  "timestamp": 1794360763229,
   "sha256hash": "059a1b0397941114aa0a22fb93fd88c24295765abf20352a8ba03d50b0a3235d",
-  "logs": "## 1.1.6 \n\n -添加多租户环境切换租户功能\n\n -添加模型悬浮tooltip\n\n -修复一些bug"
+  "logs": "## 1.1.7 \n\n -实现 Oort平台 accessToken 自动续期与无感重放机制\n\n -\n\n -修复一些bug"
 }
