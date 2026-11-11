@@ -3,8 +3,8 @@
   "name": "1.1.7",
   "version": "1.1.7",
   "productVersion": "1.1.7.0",
-  "hash": "d7dd38c1f3c83c096b0ebbdc838f96eb1ad08642",
-  "timestamp": 1794360813324,
-  "sha256hash": "6e05f3a24d8801a3f5810835ac28fc99db7384c35147180b13ee2fd12c1aa113",
+  "hash": "1a5da59d91e7958f36041421683fad10f2124419",
+  "timestamp": 1794363333333,
+  "sha256hash": "d5c57cb034f4a9bda770f6f4c6738b4067e5eb68c07da2cd09c1a3bebb7d60d7",
   "logs": "## 1.1.7 \n\n -实现 Oort平台 accessToken 自动续期与无感重放机制\n\n -\n\n -修复一些bug"
 }
