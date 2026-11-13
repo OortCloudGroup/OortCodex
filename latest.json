@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.7/OortCodex-Desktop.exe",
-  "name": "1.1.7",
-  "version": "1.1.7",
-  "productVersion": "1.1.7.0",
-  "hash": "a7dc148841323826e1326a0eed6ff08c9383b3a0",
-  "timestamp": 1794363225628,
-  "sha256hash": "6f46fdd19a8d64526cb72b9bcc6bdcafbb2cd8899a32503cf3bdc2b3b5564782",
-  "logs": "## 1.1.7 \n\n -实现 Oort平台 accessToken 自动续期与无感重放机制\n\n -\n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.8/OortCodex-Desktop.exe",
+  "name": "1.1.8",
+  "version": "1.1.8",
+  "productVersion": "1.1.8.0",
+  "hash": "672c1d58b3ac6c66d6db0347f4eba4739c792c71",
+  "timestamp": 1794561250757,
+  "sha256hash": "07e067e233c762a9e8e692fdae5b4a5c25251538326ad694d4e760bb1404e15b",
+  "logs": "## 1.1.8 \n\n -同步上游开源版本3.17.2\n\n -添加移动端控制功能 \n\n  \n\n -修复一些bug"
 }
