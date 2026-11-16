@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.8/OortCodex-Desktop-linux-amd64.deb",
-  "name": "1.1.8",
-  "version": "1.1.8",
-  "productVersion": "1.1.8.0",
-  "hash": "2272e209dc82a89131086fff48d3dcdd87bed693",
-  "timestamp": 1794561268772,
-  "sha256hash": "002d7a7dcd644a34af1516be9283d0f98db5714798087e9cc1718e19a3ced897",
-  "logs": "## 1.1.7 \n\n -实现 Oort平台 accessToken 自动续期与无感重放机制\n\n -\n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.9/OortCodex-Desktop-linux-amd64.deb",
+  "name": "1.1.9",
+  "version": "1.1.9",
+  "productVersion": "1.1.9.0",
+  "hash": "555c93abb236825e352f4f5eb4c4c8cd9c92b281",
+  "timestamp": 1794832147742,
+  "sha256hash": "e870e3e456399bbd0dbf9de86c692c2ffd838df043eacc1fde89a643ae5da82e",
+  "logs": "## 1.1.9 \n\n -新增用量排行榜 \n\n  \n\n -修复一些bug"
 }

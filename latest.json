@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.8/OortCodex-Desktop.exe",
-  "name": "1.1.8",
-  "version": "1.1.8",
-  "productVersion": "1.1.8.0",
-  "hash": "672c1d58b3ac6c66d6db0347f4eba4739c792c71",
-  "timestamp": 1794561250757,
-  "sha256hash": "07e067e233c762a9e8e692fdae5b4a5c25251538326ad694d4e760bb1404e15b",
-  "logs": "## 1.1.8 \n\n -同步上游开源版本3.17.2\n\n -添加移动端控制功能 \n\n  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.9/OortCodex-Desktop.exe",
+  "name": "1.1.9",
+  "version": "1.1.9",
+  "productVersion": "1.1.9.0",
+  "hash": "58cec4f3e5c06438e769f855ef2fa6251484b542",
+  "timestamp": 1794832117149,
+  "sha256hash": "b929c715658769712e7dd96586d78dccd165740ce4e93b1a0ce73ca5911d5428",
+  "logs": "## 1.1.9 \n\n -新增用量排行榜 \n\n  \n\n -修复一些bug"
 }

@@ -1,11 +1,11 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.8/OortCodex-Desktop.dmg",
-  "url-x64": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.8/OortCodex-Desktop-x86.dmg",
-  "name": "1.1.8",
-  "version": "1.1.8",
-  "productVersion": "1.1.8.0",
-  "hash": "30d2a700c5001e409a9bb18ac7598c4bcd69c7bc",
-  "timestamp": 1794561201616,
-  "sha256hash": "a5f94077deb72eb131bf2f25dc21e1886ef9d32a23a05da82d4ffcba425b0fea",
-  "logs": "## 1.1.8 \n\n -同步上游开源版本3.17.2\n\n -添加移动端控制功能 \n\n  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.9/OortCodex-Desktop.dmg",
+  "url-x64": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.9/OortCodex-Desktop-x86.dmg",
+  "name": "1.1.9",
+  "version": "1.1.9",
+  "productVersion": "1.1.9.0",
+  "hash": "d3c25ca64a20c8a4d326756ee80fa357746d49af",
+  "timestamp": 1794832161105,
+  "sha256hash": "deb214eb0a43b51ab6a7959620cbaa18bf61ed95f028a6665a2b9de46c86a73b",
+  "logs": "## 1.1.9 \n\n -新增用量排行榜 \n\n  \n\n -修复一些bug"
 }
