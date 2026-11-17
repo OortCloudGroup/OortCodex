@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.9/OortCodex-Desktop.exe",
-  "name": "1.1.9",
-  "version": "1.1.9",
-  "productVersion": "1.1.9.0",
-  "hash": "58cec4f3e5c06438e769f855ef2fa6251484b542",
-  "timestamp": 1794832117149,
-  "sha256hash": "b929c715658769712e7dd96586d78dccd165740ce4e93b1a0ce73ca5911d5428",
-  "logs": "## 1.1.9 \n\n -新增用量排行榜 \n\n  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.0/OortCodex-Desktop.exe",
+  "name": "1.2.0",
+  "version": "1.2.0",
+  "productVersion": "1.2.0.0",
+  "hash": "5ef2867135a305b0030c25a1844573bcd0c4274c",
+  "timestamp": 1794913608666,
+  "sha256hash": "d8b28be04d822d51fe290c393dfc105b004bd331dde5b2a0e7fe9a3f3867278b",
+  "logs": "## 1.2.0 \n\n -新增token用量排行榜 \n\n  \n\n -修复一些bug"
 }
