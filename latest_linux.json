@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.0/OortCodex-Desktop-linux-amd64.deb",
-  "name": "1.2.0",
-  "version": "1.2.0",
-  "productVersion": "1.2.0.0",
-  "hash": "f43fb982bccf5bf364e2e2d0f914b2a3525803b5",
-  "timestamp": 1794913992763,
-  "sha256hash": "a13a5316505e3653c53ce0cdf2b54c67c15ff81796a32507609195132d7cd991",
-  "logs": "## 1.2.0 \n\n -新增token用量排行榜 \n\n  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.2/OortCodex-Desktop-linux-amd64.deb",
+  "name": "1.2.2",
+  "version": "1.2.2",
+  "productVersion": "1.2.2.0",
+  "hash": "37b35cdfa99d8a877fd7b44f18d301fee5a86066",
+  "timestamp": 1795139829227,
+  "sha256hash": "ab361dbd2862872a1cc424aaaec5217bc40171fd7ae78bb91b827118f0206764",
+  "logs": "## 1.2.2 \n\n -添加可设置环境源配置项 \n\n -优化自定义环境配置 \n\n  \n\n -修复一些bug"
 }
