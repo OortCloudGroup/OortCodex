@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.2/OortCodex-Desktop.exe",
-  "name": "1.2.2",
-  "version": "1.2.2",
-  "productVersion": "1.2.2.0",
-  "hash": "5447284f46af9be69097201498f6bda4f740b8e5",
-  "timestamp": 1795098827403,
-  "sha256hash": "a7aabbb6cae2c9b31ac80b70878316f2b926a8dfe7e1b9c7cca49c1f3d8aa4ca",
-  "logs": "## 1.2.2 \n\n -添加可设置环境源配置项 \n\n -优化自定义环境配置 \n\n  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.3/OortCodex-Desktop.exe",
+  "name": "1.2.3",
+  "version": "1.2.3",
+  "productVersion": "1.2.3.0",
+  "hash": "964f8fe20d035b1a4fcee8c77ec2a496c50f4766",
+  "timestamp": 1795431724498,
+  "sha256hash": "1cce12306914c9e75a13c753074309caeffa2f7420ed01e9372858f8122b5e48",
+  "logs": "## 1.2.2 \n\n -优化自定义环境的功能 \n\n  \n\n -修复一些bug"
 }
