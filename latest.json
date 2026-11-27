@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.6/OortCodex-Desktop.exe",
-  "name": "1.2.6",
-  "version": "1.2.6",
-  "productVersion": "1.2.6.0",
-  "hash": "ff7b26a1fb530379d3576f7f6e3362b5482f685d",
-  "timestamp": 1795671989378,
-  "sha256hash": "3ee240d58edffbb43691159fae04e5d6ae4bcff16445efb420f4d446e9c08db0",
-  "logs": "## 1.2.5 \n\n -优化IM机器人的功能   \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.2.7/OortCodex-Desktop.exe",
+  "name": "1.2.7",
+  "version": "1.2.7",
+  "productVersion": "1.2.7.0",
+  "hash": "f21c7f017926a3cb681357ef6c7af64a56bcf89f",
+  "timestamp": 1795772598320,
+  "sha256hash": "c0b420c2c81006273c3effe31fcbcbc31c6e5f117dbe05774546ae9baaa6f869",
+  "logs": "## 1.2.7 \n\n -新增更新版本跳过更新功能   \n\n -修复一些bug"
 }
